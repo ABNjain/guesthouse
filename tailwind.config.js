@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       colors: {
         'custom-pink': '#E82574',
+        'custom-grey': '#B0BCCD',      
       },
     },
   },
