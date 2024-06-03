@@ -1,5 +1,5 @@
 import React from "react";
-import Link from 'next/link';
+import Link from "next/link";
 
 export default function Navbar () {
 
@@ -16,11 +16,11 @@ export default function Navbar () {
                 
                 <div className="flex gap-8">
                     <Link className="text-lg" href="#">Home</Link>
-                    <Link className="text-lg" href="/about">About</Link>
-                    <Link className="text-lg" href="/services">Services</Link>
-                    <Link className="text-lg" href="/rooms">Rooms</Link>
-                    <Link className="text-lg" href="/gallery">Gallery</Link>
-                    <Link className="text-lg" href="/contact">Contact</Link>
+                    <Link className="text-lg" href="#about">About</Link>
+                    <Link className="text-lg" href="#Services">Services</Link>
+                    <Link className="text-lg" href="#Rooms">Rooms</Link>
+                    <Link className="text-lg" href="#Gallery">Gallery</Link>
+                    <Link className="text-lg" href="#Message">Contact</Link>
                 </div>
 
                 <div>

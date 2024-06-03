@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "react-scroll": "^1.9.0"
   },
   "devDependencies": {
     "autoprefixer": "latest",
